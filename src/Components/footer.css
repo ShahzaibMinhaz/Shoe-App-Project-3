@@ -1,0 +1,21 @@
+.Footer{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    text-align: center;
+    background-color: #606060;
+  }
+  
+  .socialmedia-icon > .icon{
+    margin-top: 10px;
+    color: white;
+    margin: 10px;
+    font-size: 40px;
+    cursor: pointer;
+  }
+  
+  .End-details{
+    margin-bottom: 10px;
+    color: white;
+  }
